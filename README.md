@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Second-year B.Tech student in Robotics & Automation at Zeal College of Engineering & Research, Pune, with a focus on Data Science, Analytics, and Technical Product Management. I'm driven by research and real-world problem-solving — from sustainability challenges like carbon tracking and wind energy, to India-specific market gaps, to the growing intersection of AI with everyday domains.<br><br>My recent work centers on MLOps: building end-to-end pipelines with FastAPI, Random Forest models, MLflow, and CI/CD deployment (GitHub Actions, Render). I'm deepening this into LLM and RAG engineering, with hands-on experience integrating Claude and Gemini APIs into production-style applications.
+Third-year B.Tech student in Robotics & Automation at Zeal College of Engineering & Research, Pune, with a focus on Data Science, Analytics, and Technical Product Management. I'm driven by research and real-world problem-solving — from sustainability challenges like carbon tracking and wind energy, to India-specific market gaps, to the growing intersection of AI with everyday domains.<br><br>My recent work centers on MLOps: building end-to-end pipelines with FastAPI, Random Forest models, MLflow, and CI/CD deployment (GitHub Actions, Render). I'm deepening this into LLM and RAG engineering, with hands-on experience integrating Claude and Gemini APIs into production-style applications.
 
 
 ## 🌐 Socials:
